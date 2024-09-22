@@ -1,0 +1,36 @@
+/* color palette from <https://github.com/vuejs/theme> */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*  moss Green - #6d9f71 
+    brown1 - #66422D 
+    brown2 - #966045 
+    brown3 - #B26E4B 
+    brown4 - #C7976F 
+    brown5 - #EBD2BC 
+*/
+
+@font-face {
+  font-family: 'Esteban';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/public/fonts/Esteban-Regular.ttf') format('woff2');
+}
+
+body {
+  font-family: 'Esteban';
+  color: #424143;
+}
+.text_grey {
+  color: #424143;
+}
+.moss_green {
+  background-color: #6d9f71;
+}
+.clay_brown {
+  background-color: #c7976f;
+}
+.primary_bg {
+  background-color: #faf2e8;
+}
