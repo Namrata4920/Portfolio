@@ -25,11 +25,12 @@ body {
 .text_grey {
   color: #424143;
 }
-.moss_green {
-  background-color: #6d9f71;
+
+.green_bg {
+  background-color: #4f6d65;
 }
-.clay_brown {
-  background-color: #c7976f;
+.secondary_bg {
+  background-color: #f4c75d;
 }
 .primary_bg {
   background-color: #faf2e8;

@@ -4,10 +4,11 @@
     <span></span>
     <span></span>
 
-    <div class="content">
-      <h1 id="name">Namrata Sapra</h1>
-      <p id="skill">/ Frontend web developer</p>
-      <a href="#"> <button type="button" id="button">Myportfolio</button></a>
+    <div class="content flex flex-col items-center">
+      <h1 id="name" class="text-2xl">Namrata Sapra</h1>
+      <p id="skill" class="text-2xl">/ FrontEnd developer</p>
+
+      <NButton label="Contact Me" size="md" theme="primary" class="mt-2"></NButton>
     </div>
   </div>
 </template>
@@ -15,8 +16,8 @@
 <style scoped>
 .square {
   position: relative;
-  width: 400px;
-  height: 400px;
+  width: 430px;
+  height: 430px;
   display: flex;
   justify-content: center;
   align-items: center;
