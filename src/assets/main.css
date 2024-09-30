@@ -3,35 +3,27 @@
 @tailwind components;
 @tailwind utilities;
 
-/*  moss Green - #6d9f71 
-    brown1 - #66422D 
-    brown2 - #966045 
-    brown3 - #B26E4B 
-    brown4 - #C7976F 
-    brown5 - #EBD2BC 
-*/
-
 @font-face {
-  font-family: 'Esteban';
+  font-family: 'Sansita-Regular';
   font-style: normal;
   font-weight: 400;
-  src: url('/public/fonts/Esteban-Regular.ttf') format('woff2');
+  src: url('/fonts/Sansita-Regular.ttf') format('woff2');
+}
+
+:root {
+  --color-primary-100: #f7f7f7;
+  --color-primary-200: #e2dfdf;
+  --color-primary-300: #a5a2a2;
+  --color-primary-500: #0c0c0c;
+
+  --color-secondary-100: #f4eddf;
+  --color-secondary-200: #d8cfb8;
+  --color-secondary-300: #d8cfb8;
+  --color-secondary-400: #b6976b;
+  --color-secondary-500: #28343a;
+  --color-secondary-600: #bfb7a3;
 }
 
 body {
-  font-family: 'Esteban';
-  color: #424143;
-}
-.text_grey {
-  color: #424143;
-}
-
-.green_bg {
-  background-color: #4f6d65;
-}
-.secondary_bg {
-  background-color: #f4c75d;
-}
-.primary_bg {
-  background-color: #faf2e8;
+  color: #000000;
 }
