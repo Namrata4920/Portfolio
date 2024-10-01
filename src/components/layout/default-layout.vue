@@ -11,9 +11,11 @@
             >
               NS
             </div>
-            <li class="dark:text-secondary-500">Web</li>
-            <li class="dark:text-secondary-500">About</li>
-            <li class="dark:text-secondary-500">Art & Craft</li>
+            <li class="dark:text-secondary-500"><router-link to="/">Web</router-link></li>
+            <li class="dark:text-secondary-500"><router-link to="/about">About</router-link></li>
+            <li class="dark:text-secondary-500">
+              <router-link to="/artandcraft">Art & Craft</router-link>
+            </li>
           </ul>
         </div>
 
@@ -34,28 +36,38 @@
     <footer
       class="bg-primary-100 dark:bg-secondary-100 dark:text-secondary-500 border-t border-black dark:border-secondary-400 p-6"
     >
-      <div class="flex justify-between items-center">
-        <div>
-          <ul class="flex space-x-6 text-lg items-center font-playpen underline underline-offset-4">
-            <li class="dark:text-secondary-500">Web</li>
-            <li class="dark:text-secondary-500">About</li>
-            <li class="dark:text-secondary-500">Art & Craft</li>
-            <li class="dark:text-secondary-500">Let's Chat</li>
+      <div class="md:flex md:justify-between items-center text-center">
+        <div class="py-2">
+          <ul
+            class="flex space-x-6 text-lg justify-center font-playpen underline underline-offset-4"
+          >
+            <li class="dark:text-secondary-500">
+              <router-link to="/">Web</router-link>
+            </li>
+            <li class="dark:text-secondary-500">
+              <router-link to="/about">About</router-link>
+            </li>
+            <li class="dark:text-secondary-500">
+              <router-link to="/artandcraft">Art & Craft</router-link>
+            </li>
+            <li class="dark:text-secondary-500">
+              <router-link to="/contact">Let's Chat</router-link>
+            </li>
           </ul>
         </div>
-        <div>
+        <div class="py-2">
           <p class="text-md">
             Copyright © 2024 | <span class="font-playpen font-bold">Namrata Sapra</span>
           </p>
         </div>
 
-        <div class="flex justify-center align-center space-x-2">
-          <router-link to="https://www.linkedin.com/in/namrata-sapra-4a141b1a0/">
+        <div class="flex justify-center align-center space-x-2 py-2">
+          <a href="https://www.linkedin.com/in/namrata-sapra-4a141b1a0/" target="_blank">
             <IconLinkedin class="text-2xl" />
-          </router-link>
-          <router-link>
+          </a>
+          <a href="https://www.instagram.com/naamy.art_?igsh=MXNsNmR0MGJlOTQ4cg==" target="_blank">
             <IconInstagram class="text-2xl" />
-          </router-link>
+          </a>
         </div>
       </div>
     </footer>
