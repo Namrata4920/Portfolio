@@ -31,8 +31,19 @@
             technical expertise to every project. Let's build something amazing together!
           </p>
           <div class="pt-6 flex gap-3">
-            <NButton label="Contact Me" theme="primary" size="md" />
-            <NButton label="Follow Me!" theme="primary" size="md" />
+            <NButton
+              label="Contact Me"
+              theme="primary"
+              size="md"
+              @click="$router.push({ name: 'contact' })"
+            />
+            <a href="https://www.instagram.com/naamy.art_?igsh=MXNsNmR0MGJlOTQ4cg==" target="_blank"
+              ><button
+                class="bg-black px-3 py-2 text-white dark:bg-secondary-500 dark:text-secondary-200"
+              >
+                Check My Arts
+              </button></a
+            >
           </div>
         </div>
       </div>
