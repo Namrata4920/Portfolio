@@ -47,7 +47,7 @@
             class="font-semibold text-2xl underline"
             href="https://www.instagram.com/crafts.curiously/?igsh=N3UxaW92Z25icWVu&utm_source=qr#"
             target="_blank"
-            >@crafts.curiosly</a
+            >@crafts.curiously</a
           >
           <p class="text-md pt-4">
             Step into a realm of handmade wonders! On my craft page, you’ll find a collection of
