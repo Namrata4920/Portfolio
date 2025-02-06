@@ -65,7 +65,10 @@
           <a href="https://www.linkedin.com/in/namrata-sapra-4a141b1a0/" target="_blank">
             <IconLinkedin class="text-2xl" />
           </a>
-          <a href="https://www.instagram.com/naamy.art_?igsh=MXNsNmR0MGJlOTQ4cg==" target="_blank">
+          <a
+            href="https://www.instagram.com/namrata.designs_/?igsh=MW9za3B3cDAyZ3Vydg%3D%3D&utm_source=qr#"
+            target="_blank"
+          >
             <IconInstagram class="text-2xl" />
           </a>
         </div>
