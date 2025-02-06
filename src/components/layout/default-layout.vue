@@ -50,14 +50,14 @@
             <li class="dark:text-secondary-500">
               <router-link to="/artandcraft">Art & Craft</router-link>
             </li>
-            <li class="dark:text-secondary-500">
+            <!-- <li class="dark:text-secondary-500">
               <router-link to="/contact">Let's Chat</router-link>
-            </li>
+            </li> -->
           </ul>
         </div>
         <div class="py-2">
           <p class="text-md">
-            Copyright © 2024 | <span class="font-playpen font-bold">Namrata Sapra</span>
+            Copyright © 2025 | <span class="font-playpen font-bold">Namrata Sapra</span>
           </p>
         </div>
 

@@ -10,7 +10,7 @@
       <p
         class="text-3xl font-bold inline-block dark:text-secondary-500 font-playpen px-24 py-3 border-x border-b border-black dark:border-secondary-400"
       >
-        Folloe me! You will not regret it.
+        Follow me! You will not regret it.
       </p>
     </div>
 
@@ -23,17 +23,17 @@
         <div class="col-span-2">
           <a
             class="font-semibold text-2xl underline"
-            href="https://www.instagram.com/naamy.art_?igsh=MXNsNmR0MGJlOTQ4cg=="
+            href="https://www.instagram.com/namrata.designs_/?igsh=MW9za3B3cDAyZ3Vydg%3D%3D&utm_source=qr#"
             target="_blank"
-            >@naamy.art_</a
+            >@namrata.designs_</a
           >
           <p class="text-md pt-4">
-            At Naamy.art, I focus on creating visually captivating pieces using acrylics, pastel
-            color pencils, and mixed media. My work ranges from detailed portraits to abstract art,
-            each piece reflecting my unique style and attention to detail. With a strong foundation
-            in techniques and a passion for storytelling through visuals, I aim to evoke emotions
-            and connect with viewers on a deeper level. Follow my journey as I continue to
-            experiment, evolve, and create art that speaks to the heart.
+            At Namrata.designs_, I focus on creating visually captivating pieces using acrylics,
+            pastel color pencils, and mixed media. My work ranges from detailed portraits to
+            abstract art, each piece reflecting my unique style and attention to detail. With a
+            strong foundation in techniques and a passion for storytelling through visuals, I aim to
+            evoke emotions and connect with viewers on a deeper level. Follow my journey as I
+            continue to experiment, evolve, and create art that speaks to the heart.
           </p>
         </div>
       </div>
@@ -45,9 +45,9 @@
         <div class="col-span-2">
           <a
             class="font-semibold text-2xl underline"
-            href="https://www.instagram.com/naamy.art_?igsh=MXNsNmR0MGJlOTQ4cg=="
+            href="https://www.instagram.com/crafts.curiosly/?igsh=N3UxaW92Z25icWVu&utm_source=qr#"
             target="_blank"
-            >@naamy.craft_</a
+            >@crafts.curiosly</a
           >
           <p class="text-md pt-4">
             Step into a realm of handmade wonders! On my craft page, you’ll find a collection of

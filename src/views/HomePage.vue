@@ -19,7 +19,7 @@
             Hii! I am Namrata Sapra. I am a web developer, designer, and
             <span class="font-semibold underline"
               ><a
-                href="https://www.instagram.com/naamy.art_?igsh=MXNsNmR0MGJlOTQ4cg=="
+                href="https://www.instagram.com/namrata.designs_/?igsh=MW9za3B3cDAyZ3Vydg%3D%3D&utm_source=qr#"
                 target="_blank"
                 >Art lover</a
               ></span
@@ -30,18 +30,28 @@
             With a background in IT and a love for both design and code, I bring creativity and
             technical expertise to every project. Let's build something amazing together!
           </p>
-          <div class="pt-6 flex gap-3">
-            <NButton
+          <div class="pt-6 md:flex gap-3">
+            <!-- <NButton
               label="Contact Me"
               theme="primary"
               size="md"
               @click="$router.push({ name: 'contact' })"
-            />
-            <a href="https://www.instagram.com/naamy.art_?igsh=MXNsNmR0MGJlOTQ4cg==" target="_blank"
+            /> -->
+
+            <a href="https://www.linkedin.com/in/namrata-sapra-4a141b1a0/" target="_blank"
               ><button
-                class="bg-black px-3 py-2 text-white dark:bg-secondary-500 dark:text-secondary-200"
+                class="bg-black px-3 py-2 my-1 text-white dark:bg-secondary-500 dark:text-secondary-200"
               >
-                Check My Arts
+                linkedin Profile
+              </button></a
+            >
+            <a
+              href="https://www.instagram.com/namrata.designs_/?igsh=MW9za3B3cDAyZ3Vydg%3D%3D&utm_source=qr#"
+              target="_blank"
+              ><button
+                class="bg-black px-3 py-2 my-1 text-white dark:bg-secondary-500 dark:text-secondary-200"
+              >
+                Check Out My Designs
               </button></a
             >
           </div>
@@ -64,15 +74,18 @@
 <script setup>
 const skills = [
   { id: 1, name: 'Vue.Js' },
-  { id: 2, name: 'React.Js' },
-  { id: 3, name: 'Vuetify' },
-  { id: 4, name: 'Vuex' },
-  { id: 5, name: 'Pinia' },
-  { id: 6, name: 'GraphQL' },
-  { id: 7, name: 'Bootstrap' },
-  { id: 8, name: 'HTML5' },
-  { id: 9, name: 'CSS3' },
-  { id: 10, name: 'Javascript' },
-  { id: 11, name: 'Github' }
+  { id: 2, name: 'Nuxt.js' },
+  { id: 3, name: 'React.Js' },
+  { id: 4, name: 'Vuetify' },
+  { id: 5, name: 'Javascript' },
+  { id: 6, name: 'Tailwind CSS' },
+  { id: 7, name: 'Vuex' },
+  { id: 8, name: 'Pinia' },
+  { id: 9, name: 'GraphQL' },
+  { id: 10, name: 'Bootstrap' },
+  { id: 11, name: 'HTML5' },
+  { id: 12, name: 'CSS3' },
+  { id: 13, name: 'Javascript' },
+  { id: 14, name: 'Github' }
 ]
 </script>
